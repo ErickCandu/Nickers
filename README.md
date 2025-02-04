@@ -3,7 +3,7 @@
 
 # **Plataforma Interativa de Montagem de Computadores** 💻  
 
-Um sistema interativo que ajuda os usuários a escolher a **configuração ideal de computadores e notebooks** com base em suas necessidades e custo-benefício. Além disso, conta com um **fórum de suporte técnico** onde os usuários podem relatar problemas, compartilhar soluções e trocar experiências.  
+Um sistema interativo que ajuda os usuários a escolher a **configuração ideal de computadores** com base em suas necessidades e custo-benefício. Além disso, conta com um **fórum de suporte técnico** onde os usuários podem relatar problemas, compartilhar soluções e trocar experiências.  
 
 ---
 
